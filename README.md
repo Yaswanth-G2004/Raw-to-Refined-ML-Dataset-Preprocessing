@@ -28,7 +28,12 @@ Original Titanic dataset from Kaggle:
    - Detected and removed high outliers in `Fare` using IQR method
 6. **Final dataset shape**: **775 rows × 12 columns**
 
+## 📄 Files Included
+📄 `main.py` – Script for data preprocessing  
+📁 `titanic_preprocessed_dataset.csv` – Cleaned and preprocessed Titanic dataset
+
 ## ✅ Outcome
 The dataset is clean, preprocessed, and ready for training machine learning models such as logistic regression or decision trees for survival prediction.
+
 ---
 📂 _All code files and processed datasets are available in this repository._
