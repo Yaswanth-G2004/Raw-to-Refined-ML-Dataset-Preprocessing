@@ -58,7 +58,7 @@ print("\nFinal Shape:", df.shape)
 print("\nSample Data:\n", df.head())
 
 #Saving of cleaned dataset
-df.to_csv("titanic_preprocessed.csv", index=False)
+df.to_csv("titanic_preprocessed_dataset.csv", index=False)
 
 
 
