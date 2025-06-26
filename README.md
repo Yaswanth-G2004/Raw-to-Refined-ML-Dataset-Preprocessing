@@ -37,3 +37,14 @@ The dataset is clean, preprocessed, and ready for training machine learning mode
 
 ---
 📂 _All code files and processed datasets are available in this repository._
+
+---
+
+## 👨‍💻 Author
+
+**Garikipati Yaswanth**  
+📧 Email: garikipatiyaswanth2004@gmail.com  
+🔗 [GitHub](https://github.com/Yaswanth-G2004)  
+🔗 [LinkedIn](https://www.linkedin.com/in/yaswanth-garikipati-516821288)
+
+---
